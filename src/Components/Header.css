@@ -8,7 +8,7 @@ header {
   height: 38px;
 }
 form {
-  text-align: left;
+  text-align: left;   
   display: flex;
   justify-content: center;
   justify-self: center;
@@ -90,7 +90,7 @@ input.title {
   right: 40%;
 }
 .del-btn {
-  opacity: 0;
+  opacity: 100;
   margin-left: 80%;
   width: 50px;
   height: 30px;
